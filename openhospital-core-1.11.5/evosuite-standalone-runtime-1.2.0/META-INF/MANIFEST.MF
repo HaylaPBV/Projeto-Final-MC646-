@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: evosuite-standalone-runtime
+Implementation-Version: 1.2.0
+Built-By: gordon
+Specification-Vendor: EvoSuite
+Agent-Class: org.evosuite.runtime.agent.InstrumentingAgent
+Can-Redefine-Classes: true
+Specification-Title: evosuite-standalone-runtime
+Implementation-Vendor-Id: org.evosuite
+Implementation-Vendor: EvoSuite
+Premain-Class: org.evosuite.runtime.agent.InstrumentingAgent
+Can-Retransform-Classes: true
+Created-By: Apache Maven 3.8.2
+Build-Jdk: 1.8.0_101
+Specification-Version: 1.2
+Implementation-URL: http://www.evosuite.org/evosuite-standalone-runtim
+ e/
+
